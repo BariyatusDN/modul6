@@ -1,0 +1,2 @@
+rootProject.name='modul64'
+include ':app'

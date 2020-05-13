@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">modul64</string>
+
+
+
+    <string name="email">EMAIL</string>
+    <string name="nama_mahasiswa">NAMA MAHASISWA</string>
+
+    <string name="jurusan">JURUSAN</string>
+    <string name="tambah_mahasiswa">TAMBAH MAHASISWA</string>
+    <string name="daftar_mahasiswa">DAFTAR MAHASISWA</string>
+    <string name="id">ID</string>
+    <string name="update_mahasiswa">UPDATE MAHASISWA</string>
+    <string name="hapus_mahasiswa">HAPUS MAHASISWA</string>
+</resources>
